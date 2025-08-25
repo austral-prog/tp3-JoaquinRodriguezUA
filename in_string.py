@@ -12,4 +12,4 @@ def check_vowels():
     print("Contiene o:", o)
     print("Contiene u:", u)
 
-check_vowels()
+# check_vowels()
